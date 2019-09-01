@@ -1,0 +1,14 @@
+main: info.HeroAAX.V1_0_0.PluginShowcase
+name: Showcase-Plugin
+author: Tobias Bayer
+version: 1.0.0
+commands:
+  bc:
+    usage: /bc help
+  blockcommand:
+    usage: /blockcommand help
+permissions:
+  pluginshowcase.commands:
+    default: op
+  pluginshowcase.commands:
+    default: op
